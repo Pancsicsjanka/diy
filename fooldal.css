@@ -1,0 +1,36 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+header {
+    height: 70px;
+    background-color: rgb(160, 0, 0);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin-right: 65px;
+    font-size: 25px;
+    margin-left: 30px;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    list-style: none;
+}
+
+li {
+    margin-top: 20px;
+   
+}
+
+.kalapacs {
+    height: 70px;
+    margin-top: 1px;
+    
+}
