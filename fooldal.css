@@ -47,8 +47,6 @@ footer {
     height: 405px;
     width: 900px;
     background-color: rgba(160, 0, 0, 0.379);
-    display: flex;
-    justify-content: center;
     margin: auto;
 }
 
@@ -71,4 +69,15 @@ footer ul{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.tools {
+    width: 700px;
+    height: 200px;
+    margin-left: 100px;
 }
