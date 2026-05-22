@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(51, 51, 51);
+}
+
 header {
     height: 70px;
     background-color: rgb(160, 0, 0);
@@ -59,3 +63,62 @@ footer ul{
     padding: 0;
     box-sizing: border-box;
 }
+
+div img {
+    height: 150px;
+    width: 150px;
+    border-radius: 5px;
+
+}
+
+#egkek {
+    height: 300px;
+    width: 170px;
+    background-color: rgb(171, 171, 171);
+    border-radius: 5px;
+}
+
+#acelkek {
+    height: 300px;
+    width: 170px;
+    background-color: rgb(171, 171, 171);
+    border-radius: 5px;
+}
+
+#tavaszzold {
+    height: 300px;
+    width: 170px;
+    background-color: rgb(171, 171, 171);
+    border-radius: 5px;
+}
+
+#paradicsom {
+    height: 300px;
+    width: 170px;
+    background-color: rgb(171, 171, 171);
+    border-radius: 5px;
+}
+
+#lazac {
+    height: 300px;
+    width: 170px;
+    background-color: rgb(171, 171, 171);
+    border-radius: 5px;
+}
+
+#barna {
+    height: 300px;
+    width: 170px;
+    background-color: rgb(171, 171, 171);
+    border-radius: 5px;
+}
+
+#arany {
+    height: 300px;
+    width: 170px;
+    background-color: rgb(171, 171, 171);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
