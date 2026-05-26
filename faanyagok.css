@@ -1,0 +1,142 @@
+body {
+    background-color: rgb(51, 51, 51);
+}
+
+header {
+    height: 70px;
+    background-color: rgb(160, 0, 0);
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+    margin-right: 65px;
+    font-size: 25px;
+    margin-left: 30px;
+}
+
+a:hover {
+    text-shadow: 2px 3px 5px rgb(255, 255, 255);
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    list-style: none;
+}
+
+.elsoL {
+    margin-top: 20px;
+}
+
+.kalapacs {
+    height: 70px;
+    margin-top: 1px;
+    
+}
+
+footer {
+    height: 40px;
+    background-color: rgb(160, 0, 0);
+    margin-top: 65px;
+    width: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
+
+#nagy {
+    background-color: rgb(171, 171, 171);
+    height: 350px;
+    width: 1100px;
+    margin-top: 60px;
+    margin-left: 95px;
+    border: 5px white solid;
+    border-radius: 10px;
+}
+
+#bukk {
+    position: absolute ; 
+    top: 150px;
+    left: 110px;
+    border: 2px white solid;
+    border-radius: 5px;
+}
+
+#cseresznye {
+    position: absolute ;
+    top: 150px;
+    left: 330px;
+    border: 2px white solid;
+    border-radius: 5px; 
+}
+
+#dio {
+    position: absolute ;
+    top: 150px;
+    left: 550px;
+    border: 2px white solid;
+    border-radius: 5px; 
+}
+
+#mahagoni {
+    position: absolute ;
+    top: 150px;
+    left: 765px;
+    border: 2px white solid;
+    border-radius: 5px; 
+}
+
+#tolgy {
+    position: absolute;
+    top: 150px;
+    right: 100px;
+    border: 2px white solid;
+    border-radius: 5px;    
+}
+
+h3 {
+    color: rgb(51, 51, 51);
+    font-size: 25px;
+}
+
+#b {
+    position: absolute;
+    top: 400px;
+    left: 180px;
+}
+
+#cs {
+    position: absolute;
+    top: 400px;
+    left: 370px;    
+}
+
+#d {
+    position: absolute;
+    top: 400px;
+    left: 630px;    
+}
+
+#m {
+    position: absolute;
+    top: 400px;
+    left: 820px;    
+}
+
+#t {
+    position: absolute;
+    top: 400px;
+    left: 1050px;    
+}
+
