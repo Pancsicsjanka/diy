@@ -63,7 +63,7 @@ footer {
     border-radius: 10px;
     position: absolute;
     top: 85px;
-    right: 395px;
+    right: 405px;
     border: 5px rgb(255, 255, 255) solid;
 }
 
@@ -74,7 +74,7 @@ footer {
     border-radius: 10px;
     position: absolute;
     top: 310px;
-    right: 395px;
+    right: 405px;
     border: 5px rgb(255, 255, 255) solid;
 }
 
@@ -85,6 +85,66 @@ footer {
     border-radius: 10px;
     position: absolute;
     top: 535px;
-    right: 395px;
+    right: 405px;
     border: 5px rgb(255, 255, 255) solid;
+}
+
+#Kalapaccs{
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    top: 18px;
+    border-radius: 5px;
+}
+
+#cim1{
+    position: absolute;
+    left: 210px;
+    top: 5px;
+}
+
+#szoveg1{
+    position: absolute;
+    left: 210px;
+    top: 60px;
+}
+
+#csavarhuzo{
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    top: 18px;
+    border-radius: 5px;
+}
+
+#cim2{
+    position: absolute;
+    left: 210px;
+    top: 5px;
+}
+
+#szoveg2{
+    position: absolute;
+    left: 210px;
+    top: 60px;
+}
+
+#barkacsolas{
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    top: 18px;
+    border-radius: 5px;
+}
+
+#cim3{
+    position: absolute;
+    left: 210px;
+    top: 5px;
+}
+
+#szoveg3{
+    position: absolute;
+    left: 210px;
+    top: 60px;
 }
