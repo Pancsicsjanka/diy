@@ -72,12 +72,13 @@ h4{
 }
 
 #nev1{
-    height: 130px;
+    height: 120px;
     width: 200px;
     position: absolute;
     top: 410px;
     left: 170px;
     background-color: rgb(85, 85, 85);
+    border-radius: 5px;
 }
 
 #nev2{
@@ -87,6 +88,7 @@ h4{
     top: 410px;
     left: 530px;
     background-color: rgb(85, 85, 85);
+    border-radius: 5px;
 }
 
 #csunyafuro2{
@@ -100,12 +102,13 @@ h4{
 }
 
 #nev3{
-    height: 120px;
+    height: 110px;
     width: 180px;
     position: absolute;
     top: 410px;
     left: 870px;
     background-color: rgb(85, 85, 85);
+    border-radius: 5px;
 }
 
 #csunyafuro3{
@@ -115,5 +118,41 @@ h4{
     left: 840px;
     top: 90px;
     border: 5px rgb(60, 51, 51) solid;
+    border-radius: 5px;
+}
+
+#ar1{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(73, 73, 73);
+    position: absolute;
+    top:370px;
+    left: 140px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+#ar2{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(73, 73, 73);
+    position: absolute;
+    top: 370px;
+    left: 480px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+#ar3{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(73, 73, 73);
+    position: absolute;
+    top: 370px;
+    left: 830px;
+    text-align: center;
+    font-size: 25px;
     border-radius: 5px;
 }
